@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nikhilkumar99k/nikhilkumar99k/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nikhilkumar99k/output/snake.svg" alt="Snake animation" />
 
 ###
 
