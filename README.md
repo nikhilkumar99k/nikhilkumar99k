@@ -66,6 +66,10 @@
 
 ###
 
-<p align="left">Hello World!!Hello World!!<br>Turning caffeine into code, one commit at a time. 💻☕️ #CodeLife</p>
+<p align="left">Hello World!!<br>Turning caffeine into code, one commit at a time. 💻☕️ #CodeLife</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/nikhilkumar99k/nikhilkumar99k/output/snake.svg" alt="Snake animation" />
 
 ###
